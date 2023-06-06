@@ -19,7 +19,7 @@ class CustomLoginView(LoginView):
     fields = "__all__"
     redirect_authenticated_user = True
 
-    def success_url(self):
+    def get_success_url(self):
         return reverse_lazy("tasks")
 
 
