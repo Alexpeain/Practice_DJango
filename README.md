@@ -1,1 +1,1 @@
-Pratising Django with User Resgistraiotn login
+Practising Django with User Resgistraiotn login
