@@ -1,1 +1,1 @@
-Collection of Practising Django Framework and APIS 
+Pratising Django with User Resgistraiotn login
